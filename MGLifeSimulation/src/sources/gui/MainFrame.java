@@ -78,7 +78,7 @@ public class MainFrame extends javax.swing.JFrame implements GUIInterface {
         panelPlaceHolder = new javax.swing.JPanel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Nasta Life simulation");
+        setTitle("MG Life simulation");
 
         jLabel1.setText("Count:");
 
